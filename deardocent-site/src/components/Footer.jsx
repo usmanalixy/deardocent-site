@@ -51,12 +51,12 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="#" className="text-gray-400 hover:text-white transition-colors duration-200">
+                <a href="https://www.linkedin.com/company/dear-docent/" className="text-gray-400 hover:text-white transition-colors duration-200">
                   LinkedIn
                 </a>
               </li>
               <li>
-                <a href="#" className="text-gray-400 hover:text-white transition-colors duration-200">
+                <a href="https://www.instagram.com/deardocent/" className="text-gray-400 hover:text-white transition-colors duration-200">
                   Instagram
                 </a>
               </li>
